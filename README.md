@@ -4,3 +4,7 @@
 同时，这也是我第一个完整的iOS项目，并且用这个项目是我的毕设，用时一个半月。                                                                       
 
 如果大家喜欢的话，请给我个✨✨Star✨✨，谢谢啦
+
+截图：
+![image]https://github.com/zhuxiao220/Shop/blob/master/首页.png?raw=true
+![image]
