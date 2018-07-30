@@ -5,6 +5,11 @@
 
 如果大家喜欢的话，请给我个✨✨Star✨✨，谢谢啦
 
+普通用户账号：15152863606    密码：111111
+管理员账号：13814437090        密码：111111
+
+普通用户的账号是可以注册的，但是管理员的账号是不可以注册的。
+
 截图：
 ![image](https://github.com/zhuxiao220/Shop/blob/master/image/首页.png?raw=true)
 ![image](https://github.com/zhuxiao220/Shop/blob/master/image/分类.png?raw=true)
