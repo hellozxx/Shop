@@ -6,7 +6,7 @@
 如果大家喜欢的话，请给我个✨✨Star✨✨，谢谢啦
 
 截图：
-![image](https://github.com/zhuxiao220/Shop/blob/master/首页.png?raw=true)
-![image](https://github.com/zhuxiao220/Shop/blob/master/分类.png?raw=true)
-![image](https://github.com/zhuxiao220/Shop/blob/master/购物车.png?raw=true)
-![image](https://github.com/zhuxiao220/Shop/blob/master/我的.png?raw=true)
+![image](https://github.com/zhuxiao220/Shop/blob/master/image/首页.png?raw=true)
+![image](https://github.com/zhuxiao220/Shop/blob/master/image/分类.png?raw=true)
+![image](https://github.com/zhuxiao220/Shop/blob/master/image/购物车.png?raw=true)
+![image](https://github.com/zhuxiao220/Shop/blob/master/image/我的.png?raw=true)
