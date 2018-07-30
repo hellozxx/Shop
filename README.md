@@ -7,4 +7,6 @@
 
 截图：
 ![image](https://github.com/zhuxiao220/Shop/blob/master/首页.png?raw=true)
-![image](Shop/分类.png)
+![image](https://github.com/zhuxiao220/Shop/blob/master/分类.png?raw=true)
+![image](https://github.com/zhuxiao220/Shop/blob/master/购物车.png?raw=true)
+![image](https://github.com/zhuxiao220/Shop/blob/master/我的.png?raw=true)
