@@ -10,7 +10,6 @@
 
 普通用户的账号是可以注册的，但是管理员的账号是不可以注册的。
 
-截图：
 ![image](https://github.com/zhuxiao220/Shop/blob/master/image/首页.png?raw=true)
 ![image](https://github.com/zhuxiao220/Shop/blob/master/image/分类.png?raw=true)
 ![image](https://github.com/zhuxiao220/Shop/blob/master/image/购物车.png?raw=true)
